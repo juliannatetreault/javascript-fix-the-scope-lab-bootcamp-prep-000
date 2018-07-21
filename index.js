@@ -11,7 +11,7 @@ function yourAnimal() {
   return animal
 }
 
-var animal = ("Cat")
+var animal = ("cat")
 
 function add2(n) {
   return (n + 2)
