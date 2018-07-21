@@ -11,7 +11,6 @@ function yourAnimal() {
 }
 
 function yourAnimal()
-console.log(dog)
 console.log('cat')
 
 function add2(n) {
